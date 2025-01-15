@@ -12,3 +12,4 @@ C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\ex01\obj\
 C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\ex01\obj\Debug\net8.0\ex01.pdb
 C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\ex01\obj\Debug\net8.0\ex01.genruntimeconfig.cache
 C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\ex01\obj\Debug\net8.0\ref\ex01.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\ex01\obj\Debug\net8.0\ex01.sourcelink.json

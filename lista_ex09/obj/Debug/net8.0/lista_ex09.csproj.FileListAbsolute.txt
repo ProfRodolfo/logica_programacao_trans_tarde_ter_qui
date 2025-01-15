@@ -1,0 +1,15 @@
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\lista_ex09\bin\Debug\net8.0\lista_ex09.exe
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\lista_ex09\bin\Debug\net8.0\lista_ex09.deps.json
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\lista_ex09\bin\Debug\net8.0\lista_ex09.runtimeconfig.json
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\lista_ex09\bin\Debug\net8.0\lista_ex09.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\lista_ex09\bin\Debug\net8.0\lista_ex09.pdb
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\lista_ex09\obj\Debug\net8.0\lista_ex09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\lista_ex09\obj\Debug\net8.0\lista_ex09.AssemblyInfoInputs.cache
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\lista_ex09\obj\Debug\net8.0\lista_ex09.AssemblyInfo.cs
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\lista_ex09\obj\Debug\net8.0\lista_ex09.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\lista_ex09\obj\Debug\net8.0\lista_ex09.sourcelink.json
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\lista_ex09\obj\Debug\net8.0\lista_ex09.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\lista_ex09\obj\Debug\net8.0\refint\lista_ex09.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\lista_ex09\obj\Debug\net8.0\lista_ex09.pdb
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\lista_ex09\obj\Debug\net8.0\lista_ex09.genruntimeconfig.cache
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_tarde_ter_qui\lista_ex09\obj\Debug\net8.0\ref\lista_ex09.dll
